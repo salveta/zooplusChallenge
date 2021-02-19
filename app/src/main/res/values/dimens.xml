@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="item_top">180dp</dimen>
+</resources>

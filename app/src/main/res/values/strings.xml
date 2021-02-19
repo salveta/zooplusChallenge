@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AirQuality</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="city">Munich</string>
+    <string name="component_value">Munich</string>
+
+    <string name="carbon_monoxide">CO (Carbon monoxide)</string>
+    <string name="nitrogen_monoxide">NO (Nitrogen monoxide)</string>
+    <string name="nitrogen_dioxede">NO2 (Nitrogen dioxide)</string>
+    <string name="ozone">O3 (Ozone)</string>
+    <string name="sulphur_dioxide">SO2 (Sulphur dioxide)</string>
+    <string name="fine_particles">PM2.5 (Fine particles matter)</string>
+    <string name="coarse_particulate">PM10 (Coarse particulate matter)</string>
+    <string name="amnonia">NH3 (Amnonia)</string>
+    <string name="good">Good</string>
+    <string name="fair">Fair</string>
+    <string name="moderate">Moderate</string>
+    <string name="poor">Poor</string>
+    <string name="very_poor">Very Poor</string>
+    <string name="not_matched">Not matched</string>
+    <string name="no_data">Soemthing went wrong. Try again later!</string>
+</resources>
