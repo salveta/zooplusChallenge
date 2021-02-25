@@ -2,7 +2,6 @@ package com.salvaperez.airquality.domain.model
 
 import com.salvaperez.airquality.data.entity.AirDetailsEntity
 import com.salvaperez.airquality.data.entity.ComponentsEntity
-import com.salvaperez.airquality.presentation.extensions.ParseMapperHelper
 import java.util.*
 
 fun AirDetailsEntity.toModel(): AirDetailsModel{

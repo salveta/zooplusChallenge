@@ -1,6 +1,6 @@
 package com.salvaperez.airquality
 
-import com.salvaperez.airquality.presentation.extensions.ParseMapperHelper
+import com.salvaperez.airquality.domain.model.ParseMapperHelper
 import org.assertj.core.api.Assertions
 import org.junit.Test
 

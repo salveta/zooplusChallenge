@@ -1,4 +1,4 @@
-package com.salvaperez.airquality.presentation.extensions
+package com.salvaperez.airquality.domain.model
 
 import java.math.BigDecimal
 import java.math.RoundingMode
